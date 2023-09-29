@@ -1,4 +1,6 @@
 # casaconnect.github.io
 
-[Coifa](qrcode/coifa)
-[Coifa2](qrcode/coifa.md)
+[Coifa](mandarim1614/qrcode/coifa)
+
+
+[Ar-condicionado](mandarim1614/qrcode/ar)
