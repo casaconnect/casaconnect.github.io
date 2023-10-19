@@ -2,7 +2,7 @@
 
 _Unidade Mandarim 1614_
 
-1. [Sou hóspede](#sou-hospede)
+1. [Sou hóspede](#sou-hóspede)
 2. [Fechadura Digital](#fechadura-digital)
 3. [Quero me hospedar](#quero-me-hospedar)
 4. [Quero automatizar meu imóvel](#quero-automatizar-meu-imóvel)
@@ -44,7 +44,7 @@ Digite a sua **senha** seguida pela **tecla #**. Toque levemente nas teclas.
 ### Passo 3
 
 Se você digitou a senha CERTA, a luz ficará **VERDE**. Gire a maçaneta para baixo para abrir a porta **antes que a luz
-apague**. Se apagar, retorne ao [primeiro passo](#passo-1).
+apague**. Se apagar, aguarde o teclado numérico apagar também e retorne ao [primeiro passo](#passo-1).
 
 Se você digitou a senha ERRADA, a luz ficará **VERMELHA**. Aguarde o teclado numérico apagar e retorne
 ao [primeiro passo](#passo-1).
