@@ -26,7 +26,7 @@ Para entrar no apartamento, você precisará digitar a **sua senha** na fechadur
 
 ## Fechadura Digital
 
-A administradora [BemVIndo](https://api.whatsapp.com/send?phone=5571996444206) te encaminhou uma senha. Veja como
+Se você é um hóspede, a administradora [BemVIndo](https://api.whatsapp.com/send?phone=5571996444206) já te encaminhou uma senha. Veja como
 acessar:
 
 ### Passo 1
