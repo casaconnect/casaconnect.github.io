@@ -15,7 +15,7 @@ Mudamos a senha a cada hospedagem.
 
 ![Controle por voz](../../../img/alexa-logo.jpg)
 
-Controle todas as luzes da casa com a voz. Experimente: 
+Controle todas as lâmpadas da casa com a voz. Experimente: 
 
 - _Alexa, ligue a luz da **cozinha**._
 - _Alexa, ligue a luz da **área de serviço**._
@@ -29,4 +29,4 @@ Opcionalmente, use os interruptores nas paredes.
 
 ## QR Codes
 
-Você encontrará vários QR Codes espalhados pela casa. Eles são uma forma de acessar **informações** sobre os equipamentos automatizados ou não.
+Você encontrará vários QR Codes espalhados pela casa. Eles são uma forma de acessar **informações** sobre os equipamentos automatizados ou dicas específicas.
