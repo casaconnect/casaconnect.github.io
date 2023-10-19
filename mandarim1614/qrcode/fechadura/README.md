@@ -86,4 +86,4 @@ via [WhatsApp](https://api.whatsapp.com/send?phone=5571999294756&text=Olá%2C%20
 [![WhatsApp](../../../img/whatsapp-logo.png)](https://api.whatsapp.com/send?phone=5571996444206&text=Olá%2C%20gostaria%20de%20falar%20com%20a%20BemVindo)
 
 Em caso de problemas e dúvidas, fale com a BemVindo
-pelo [WhatsApp](https://api.whatsapp.com/send?phone=5571996444206&text=Olá%2C%20gostaria%20de%20falar%20com%20a%20BemVindo)
+pelo [WhatsApp](https://api.whatsapp.com/send?phone=5571996444206&text=Olá%2C%20gostaria%20de%20falar%20com%20a%20BemVindo).
