@@ -17,12 +17,12 @@ Queremos que você tenha a melhor experiência possível durante a sua estadia.
 Você está prestes a entrar em um apartamento com **automação**, onde será possível controlar diversos dispositivos com a
 voz.
 
-Dentro do apartamento, você encontrará diversos **QR Codes** como este, onde poderá obter mais informações sobre os
+Dentro do apartamento, você encontrará outros **QR Codes** como este, onde poderá obter mais informações sobre os
 equipamentos.
 
 Os dados de **acesso Wi-Fi** está em um dos QR Codes. Desafio você a encontrá-lo!
 
-Para entrar no apartamento, você precisará digitar a **sua senha** na fechadura digital. Veja como logo abaixo.
+Para entrar no apartamento, você precisará digitar a **sua senha** na fechadura digital. Veja como.
 
 ## Fechadura Digital
 
@@ -63,7 +63,7 @@ eles te ajudarão.
 
 [![BemVindo](../../../img/bem-vindo-logo.png)](https://api.whatsapp.com/send?phone=5571996444206&text=Olá%2C%20gostaria%20de%20falar%20com%20a%20BemVindo)
 
-Este imóvel é administrado pela BemVindo – Imóveis por Temporada, e está disponível nas plataformas digitais. Veja as
+Este imóvel é administrado pela BemVindo: Imóveis por Temporada, e está disponível nas plataformas digitais. Veja as
 opções de contato com a BemVindo:
 
 - [Site](https://www.sejabemvindo.com)
@@ -71,9 +71,9 @@ opções de contato com a BemVindo:
 - [WhatsApp](https://api.whatsapp.com/send?phone=5571996444206&text=Olá%2C%20gostaria%20de%20falar%20com%20a%20BemVindo)
 - [E-mail](mailto:contato@sejabemvindo.com)
 
-Responsável: **Eduardo Gaidzakian Jorge**, CRECI-BA 28019.
+Responsável: **Eduardo** Gaidzakian Jorge, CRECI-BA 28019.
 
-Entre em contato e viva a EXPERIÊNCIA de se hospedar em um **apartamento com automação** em uma ótima localização e
+Viva a EXPERIÊNCIA de se hospedar em um **apartamento com automação** em uma ótima localização e
 infra-estrutura.
 
 ## Quero automatizar meu imóvel
