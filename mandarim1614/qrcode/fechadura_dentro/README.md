@@ -1,6 +1,6 @@
 # Fechadura
 
-Aqui, muita atenção! Existe uma trava na fechadura que impede que ela seja aberta por fora.
+Aqui, muita atenção! Existe uma trava na fechadura (lado interno) que impede que ela seja aberta por fora.
 
 ![Fechadura](../../../img/fechadura-lock.png)
 
@@ -8,7 +8,7 @@ Aqui, muita atenção! Existe uma trava na fechadura que impede que ela seja abe
 
 Se você ativar a trava (cadeado fechado) e sair, **você não conseguirá abrir a porta** pelo lado de fora.
 
-A sua senha foi criada apenas para você pela administradora [BemVindo](https://www.sejabemvindo.com) e não há risco de uma pessoa não autorizada entrar.
+A sua senha foi criada exclusivamente para você pela administradora [BemVindo](https://www.sejabemvindo.com) e não há risco de uma pessoa não autorizada entrar.
 
 ## Travando a porta
 
