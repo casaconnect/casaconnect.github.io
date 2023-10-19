@@ -18,7 +18,7 @@ Segue a lista de QR Codes disponíveis:
 - [Ventilador](mandarim1614/qrcode/ventilador)
 - [Coifa](mandarim1614/qrcode/coifa)
 - [Cooktop](mandarim1614/qrcode/cooktop)
- [Forno](mandarim1614/qrcode/forno)
+- [Forno](mandarim1614/qrcode/forno)
 
 ## Área de Serviço
 
