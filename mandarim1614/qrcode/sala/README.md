@@ -38,9 +38,9 @@ Dê tchau à Alexa antes de sair e ela desligará as luzes, TV, ventilador, ar-c
 
 Você encontrará vários QR Codes espalhados pela casa. Eles são uma forma de acessar **informações** sobre os equipamentos automatizados ou dicas específicas.
 
-## Problemas
+## Dúvidas & Ajuda
 
 [![WhatsApp](../../../img/whatsapp-logo.png)](https://api.whatsapp.com/send?phone=5571996444206&text=Olá%2C%20gostaria%20de%20falar%20com%20a%20BemVindo)
 
-Em caso de problemas e dúvidas, fale com a BemVindo
+Em caso de dúvidas e ajuda, fale com a BemVindo
 pelo [WhatsApp](https://api.whatsapp.com/send?phone=5571996444206&text=Olá%2C%20gostaria%20de%20falar%20com%20a%20BemVindo).
