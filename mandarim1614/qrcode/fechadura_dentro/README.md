@@ -18,6 +18,6 @@ Basta girar a maçaneta para cima. Para garantir que a porta está bem travada, 
 
 ### Pelo lado de FORA
 
-Girar a maçaneta para cima não é suficiente. Você precisará **digitar a sua senha** antes.
+Basta fechar a porta e pronto.
 
-Quando o **sinal verde acender**, gire a maçaneta para cima.
+Mas... se você quiser uma segurança extra, girar a maçaneta para cima não é suficiente. Você precisará **digitar a sua senha** antes. Quando o sinal VERDE acender, gire a maçaneta para cima e pronto.
