@@ -6,7 +6,7 @@ _Unidade Mandarim 1614_
 2. [Fechadura Digital](#fechadura-digital)
 3. [Quero me hospedar](#quero-me-hospedar)
 4. [Quero automatizar meu imóvel](#quero-automatizar-meu-imóvel)
-5. [Problemas](#problemas)
+5. [Ajuda](#ajuda)
 
 ![Fechadura](../../../img/home-assistant-logo.png)
 
@@ -81,9 +81,9 @@ infra-estrutura.
 Entre em contato conosco para solicitar seu projeto de automação residencial ou de escritório
 via [WhatsApp](https://api.whatsapp.com/send?phone=5571999294756&text=Olá%2C%20gostaria%20de%20automatizar%20meu%20imóvel).
 
-## Problemas
+## Ajuda
 
 [![WhatsApp](../../../img/whatsapp-logo.png)](https://api.whatsapp.com/send?phone=5571996444206&text=Olá%2C%20gostaria%20de%20falar%20com%20a%20BemVindo)
 
-Em caso de problemas e dúvidas, fale com a BemVindo
+Em caso de dúvidas e ajuda, fale com a BemVindo
 pelo [WhatsApp](https://api.whatsapp.com/send?phone=5571996444206&text=Olá%2C%20gostaria%20de%20falar%20com%20a%20BemVindo).
