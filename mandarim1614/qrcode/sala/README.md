@@ -11,7 +11,7 @@ Digite a **senha exatamente** como aparece aqui, com atenção às letras maiús
 
 Mudamos a senha a cada hospedagem.
 
-## Lâmpadas
+## Automação
 
 ![Controle por voz](../../../img/alexa-logo.jpg)
 
@@ -25,7 +25,14 @@ Controle todas as lâmpadas da casa com a voz. Experimente:
 - _Alexa, ligue a luz do **quarto**._
 - _Alexa, ligue a luz do **banheiro**._
 
-Opcionalmente, use os interruptores nas paredes.
+Dê boa noite à Alexa e ela desligará todas as luzes da casa.
+
+- _Alexa, **boa noite**._
+
+Dê tchau à Alexa antes de sair e ela desligará as luzes, TV, ventilador, ar-condicionado, etc.
+
+- _Alexa, **tchau**._
+
 
 ## QR Codes
 
