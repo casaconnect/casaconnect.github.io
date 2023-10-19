@@ -53,9 +53,11 @@ ao [primeiro passo](#passo-1).
 
 ![Falha](../../../img/falha.png)
 
-Se você já **conseguiu entrar antes**, mas agora a senha não funciona mais, pode ser que você tenha ativado a trava interna.
+Se você já **conseguiu entrar antes**, mas agora a senha não funciona mais, pode ser que você tenha ativado
+a [trava interna](../fechadura_dentro).
 
-Pra todos os casos, entre em contato com a BemVindo no [WhatsApp](https://api.whatsapp.com/send?phone=5571996444206) e eles te ajudarão.
+Pra todos os casos, entre em contato com a BemVindo no [WhatsApp](https://api.whatsapp.com/send?phone=5571996444206) e
+eles te ajudarão.
 
 ## Quero me hospedar
 
@@ -76,10 +78,12 @@ infra-estrutura.
 
 ## Quero automatizar meu imóvel
 
-Entre em contato conosco para solicitar seu projeto de automação residencial ou de escritório via [WhatsApp](https://api.whatsapp.com/send?phone=5571999294756&text=Olá%2C%20gostaria%20de%20automatizar%20meu%20imóvel).
+Entre em contato conosco para solicitar seu projeto de automação residencial ou de escritório
+via [WhatsApp](https://api.whatsapp.com/send?phone=5571999294756&text=Olá%2C%20gostaria%20de%20automatizar%20meu%20imóvel).
 
 ## Problemas
 
 [![WhatsApp](../../../img/whatsapp-logo.png)](https://api.whatsapp.com/send?phone=5571996444206&text=Olá%2C%20gostaria%20de%20falar%20com%20a%20BemVindo)
 
-Em caso de problemas e dúvidas, fale com a BemVindo pelo [WhatsApp](https://api.whatsapp.com/send?phone=5571996444206&text=Olá%2C%20gostaria%20de%20falar%20com%20a%20BemVindo)
+Em caso de problemas e dúvidas, fale com a BemVindo
+pelo [WhatsApp](https://api.whatsapp.com/send?phone=5571996444206&text=Olá%2C%20gostaria%20de%20falar%20com%20a%20BemVindo)
