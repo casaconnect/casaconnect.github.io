@@ -9,7 +9,7 @@ Você pode controlar a coifa **com a voz**. Experimente:
 
 A coifa também é controlada **automaticamente** pela central inteligente quando você liga e desliga o fogão.
 
-Você pode também _ligar / desligar_ a coifa **pelo interruptor** na parede da área de serviço.
+Você pode também _[ ligar / desligar ]_ a coifa **pelo interruptor** na parede da área de serviço.
 
 ## MUITA ATENÇÃO!!!
 

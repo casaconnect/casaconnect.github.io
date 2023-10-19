@@ -1,6 +1,6 @@
 # Cooktop
 
-Este modelo de _cooktop_ aquece com **resistência elétrica**. Para _ligar / desligar_, basta girar o botão de cada boca.
+Este modelo de _cooktop_ aquece com **resistência elétrica**. Para _[ ligar / desligar ]_, basta girar o botão de cada boca.
 
 ![Automação](../../../img/home-assistant-logo.png)
 
